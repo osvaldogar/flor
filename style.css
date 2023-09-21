@@ -21,7 +21,7 @@ body {
   justify-content: center;
 
   position: relative;
- 
+  background-color: #000;
   /* Fondo negro para toda la página */
 
   /* Agrega una animación de pulsación */
@@ -226,8 +226,9 @@ body {
 }
 
 .text {
-  color: #fff; /* Color del texto */
+  color: #726d6d; /* Color del texto */
   font-size: 16px; /* Tamaño del texto */
   text-align: center; /* Alineación del texto */
   /* Otros estilos de texto que desees agregar */
+  opacity: 1;
 }
